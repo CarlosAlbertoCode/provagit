@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1> Carlos Alberto Lima Amorim e Eder da Silva Cruz</h1>
+    <img src="imagens/pizza.jpg" alt="">
 </body>
 </html>
